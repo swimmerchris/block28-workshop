@@ -76,7 +76,8 @@ body > div {
   border-radius: 20%;
 }
 
-#footer a:hover {
+#footer a:hover,
+#navbar a:hover {
   /* background-color: aqua; */
   color: #ffee10;
   box-shadow: 0 0 8px #ffee10;
